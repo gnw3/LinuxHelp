@@ -21,10 +21,22 @@ same problem can benefit.
 Posts should provide enough detail to allow others to reproduce the issue.   It is
 also important to use a title that will attract the attention of people who can 
 help.  Whenever appropriate, use text rather than images to explain problems, as
-text can be indexed and searched.
-  
+text can be indexed and searched.  Effort spent preparing a post saves time in 
+back-and-forth messages to clarify your post and makes the post more useful to
+the community.  For every person who reports a problem, there can be many others
+who have the same problem but are unwilling to participate in the discussion.  
+Every forum post should be considered an example that others may want to follow.
+
+* language:
+  Many forums use English.  If you are not confident with your English, you can
+  use an online translator to produce English text. Consider including text
+  in your preferred language so others can correct the translation.  If your
+  post includes non-English error messages, offer a translation.
+   
 * hardware:
-  It is often helpful to upload a [Linux Hardware Probe](https://linux-hardware.org) and include a link in your forum post
+  It is often helpful to upload a [Linux Hardware Probe](https://linux-hardware.org)
+  and include the link in your forum post.  For problems with devices connected by
+  cables, verify that the problem can be reproduced using a different cable.
 
 * wetware:
   Do you prefer navigation by touchscreen, mouse, keyboard,
@@ -34,7 +46,11 @@ text can be indexed and searched.
   In order to maximize the number of users with similar
   software and avoid wasting energy on bugs that have already beed
   fixed, you should insure that your system fully updated, including
-  flatpaks and firmare:
+  flatpaks and firmware:
+
+A classic article with guidance for reporting bugs that also applies to other problems is 
+[How to Report Bugs Effectively by Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html).
+This article has translations to languages other than English.
 
 ## If you are not familiar with POSIX shell constructs
 
@@ -56,7 +72,7 @@ The internet provides many "quick and easy" guides to the linux shell. The core
 functionality of the linux shell programs is shared with legacy Unix and Apple MacOS.
 
 The majority of internet easy guides to the shell plagerize other sites and often include 
-misinformation.  One reliable resource with a long history and several tranlastions is 
+misinformation.  One reliable resource with a long history and several tranlations is 
 [LinuxCommand](https://linuxcommand.org).
 
 Other reliable guides include include [Apple's Terminal User Guide](https://support.apple.com/en-ca/guide/terminal/welcome/mac)
